@@ -59,7 +59,7 @@ div {
   text-align: center;
 }
 
-.curly-bracket, .square-bracket {
+.curly-bracket, .square-bracket, .text-gold {
   color: rgba(254, 214, 2, 1);
 }
 
@@ -143,6 +143,14 @@ img {
 
 .text-celestial-blue {
   color: rgba(86, 156, 214, 1);
+}
+
+.text-keppel {
+  color: rgba(77, 200, 176, 1);
+}
+
+.text-vainilla {
+  color: rgba(220, 220, 169, 1);
 }
 
 @media (max-width: 960px) {

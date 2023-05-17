@@ -7,3 +7,9 @@ $gold: rgba(254, 214, 2, 1);
 
 celeste mas oscuro:
 $celestial-blue: rgba(86, 156, 214, 1);
+
+$keppel: rgba(77, 200, 176, 1);
+$black: rgba(0, 0, 0, 1);
+$celestial-blue: rgba(84, 153, 209, 1);
+$vanilla: rgba(220, 220, 169, 1);
+$persian-orange: rgba(205, 146, 120, 1);
