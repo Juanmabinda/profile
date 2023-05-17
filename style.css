@@ -141,6 +141,10 @@ img {
   object-fit: contain;
 }
 
+.text-celestial-blue {
+  color: rgba(86, 156, 214, 1);
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
