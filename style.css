@@ -151,8 +151,6 @@ img {
     width: 500px;
   }
 }
-
-
 @media (max-width: 720px) {
   /* For a screen < 720px, this CSS will be read */
   .container {
@@ -163,5 +161,11 @@ img {
   /* For a screen < 540px, this CSS will be read */
   .container {
     width: 300px;
+  }
+}
+@media (max-width: 300px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 280px;
   }
 }
