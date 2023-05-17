@@ -151,6 +151,7 @@ img {
     width: 500px;
   }
 }
+
 @media (max-width: 720px) {
   /* For a screen < 720px, this CSS will be read */
   .container {
