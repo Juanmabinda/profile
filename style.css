@@ -77,13 +77,11 @@ div {
 }
 
 .container {
-  width: 400px;   /* This sets the width */
+  width: 50%;   /* This sets the width */
   margin: 5 auto; /* This automatically sets left/right margins */
-  position: relative;
-  display: flex;
-  flex-direction: column;
   align-items: center;
   text-align: center;
+  display: block;
 }
 
 .container img {
