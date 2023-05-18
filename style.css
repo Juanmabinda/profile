@@ -53,6 +53,7 @@ img {
 div {
   width: 300px;
   margin: 0 auto;
+  display: block;
 }
 
 .text-center {
